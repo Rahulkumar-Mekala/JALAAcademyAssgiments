@@ -21,6 +21,13 @@
 	<classpathentry kind="src" path="Exceptions"/>
 	<classpathentry kind="src" path="Java IO"/>
 	<classpathentry kind="src" path=" Collections"/>
+	<classpathentry kind="src" path="Arrays"/>
+	<classpathentry kind="src" path="String"/>
+	<classpathentry kind="src" path="JAVABasics"/>
+	<classpathentry kind="src" path="Operators"/>
+	<classpathentry kind="src" path="Looos"/>
+	<classpathentry kind="src" path="Static"/>
+	<classpathentry kind="src" path="Inheritance"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
